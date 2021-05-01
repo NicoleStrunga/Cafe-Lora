@@ -98,6 +98,12 @@ nav a:hover {
   display: none;
 }
 
+@media (min-width: 768px) {
+  #nav-btn {
+    display: none;
+  }
+}
+
 .nav-btn {
   width: 3rem;
   height: 3rem;
